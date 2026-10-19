@@ -1,0 +1,8 @@
+{
+  "name": "Cân Não: Thần Cân Quả Cầu (RoboBalance Rage)",
+  "description": "Game vật lý cay cú mobile điều khiển 2 tay: Giữ quả cầu thăng bằng trên đầu Robot và kéo bắn vượt ải đầy kịch tính.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
